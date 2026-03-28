@@ -275,3 +275,5 @@ Code has Git. Agent memory now has Memoria.
 ---
 
 *Built by [MatrixOrigin](https://github.com/matrixorigin). Open-sourced at GTC 2026.*
+
+![Memoria Logo](./images/memoria-logo.png)
