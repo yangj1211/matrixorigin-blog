@@ -1,9 +1,9 @@
 ---
 title: "Why Do AI Agents Need Memory?"
 title_zh: "为什么 AI Agent 需要 Memory？"
-date: "2026-03-27"
-tag: "Concept"
-tag_zh: "概念"
+date: "2026-03-23"
+tag: "Product"
+tag_zh: "产品"
 status: "published"
 description: "AI without memory is like a barista who forgets your order every day. This article explores why memory is the missing piece that turns AI from a cold tool into a real partner."
 description_zh: "没有记忆的 AI 就像每天都忘记你点单的咖啡师。本文探讨为什么记忆是将 AI 从冰冷工具变成真正伙伴的关键拼图。"

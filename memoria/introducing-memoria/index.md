@@ -1,9 +1,9 @@
 ---
 title: "Introducing Memoria: The World's First Git for AI Agent Memory"
 title_zh: "Memoria 发布：AI Agent 记忆的 Git"
-date: "2026-03-27"
-tag: "Announcement"
-tag_zh: "公告"
+date: "2026-03-19"
+tag: "Product"
+tag_zh: "产品"
 status: "published"
 description: "The models are brilliant. The memory is the bottleneck. We built Memoria to fix that — version-controlled, semantically-retrieved, self-governing memory for every AI agent."
 description_zh: "模型已经很出色，但记忆是瓶颈。我们构建了 Memoria 来解决这个问题——为每个 AI Agent 提供版本控制、语义检索和自治治理的记忆层。"
