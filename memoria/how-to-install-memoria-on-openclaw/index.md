@@ -1,6 +1,6 @@
 ---
 title: "Install Memoria on OpenClaw in 3 Minutes"
-title_zh: "3 分钟在 OpenClaw 上安装 Memoria"
+title_zh: "1 分钟在 OpenClaw 上安装 Memoria"
 date: "2026-04-01"
 tag: "Tutorial"
 tag_zh: "教程"
@@ -9,7 +9,7 @@ description: "A step-by-step guide to replacing OpenClaw's default file-based me
 description_zh: "一篇安装教程：将 OpenClaw 默认的文件记忆替换为 Memoria，获得语义检索、版本控制和跨 Agent 记忆共享能力。"
 ---
 
-# Install Memoria on OpenClaw in 3 Minutes
+# Install Memoria on OpenClaw in 1 Minutes
 
 Have you noticed that after using OpenClaw for a while, it starts to feel a little forgetful — or more precisely, like it's remembering things wrong?
 
