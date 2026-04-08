@@ -2,7 +2,7 @@
 
 Memoria's Backup & Restore feature is now live. You can snapshot your agent's memory at any point in time and restore it instantly if something goes wrong. Free tier comes with two snapshots.
 
-![](image1.png)
+![](./images/image1.png)
 
 But before getting into how it works, it's worth talking about why we built it.
 
@@ -48,11 +48,11 @@ Say you have a writing agent you've spent a few weeks getting right: restrained 
 
 **Step 1: Go to Backup & Restore and click New Snapshot in the top right**
 
-![](image2.png)
+![](./images/image2.png)
 
 **Step 2: Give the snapshot a name and describe what state it captures**
 
-![](image3.png)
+![](./images/image3.png)
 
 Done. You go ahead and experiment freely.
 
@@ -68,11 +68,11 @@ That's not what you want. You open Backup & Restore and find the snapshot.
 
 **Step 3: The list shows all your snapshots with memory counts and timestamps**
 
-![](image4.png)
+![](./images/image4.png)
 
 **Step 4: Click Restore and confirm**
 
-![](image5.png)
+![](./images/image5.png)
 
 The memory is back to where it was before the experiment. The new style entries are gone. The agent is back to the version you built. The whole thing takes under a minute — no archaeology, no guesswork.
 
