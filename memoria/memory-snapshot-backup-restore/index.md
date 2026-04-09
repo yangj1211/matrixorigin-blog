@@ -1,3 +1,11 @@
+---
+title: "Memoria's Backup & Restore Is Live: Your Agent Finally Has a Save Point"
+date: "2026-04-01"
+tag: "Feature"
+status: "published"
+description: "Snapshot your agent's memory at any point and restore it instantly. Experiment freely without fear of losing the version you worked hard to build."
+---
+
 # Memoria's Backup & Restore Is Live: Your Agent Finally Has a Save Point
 
 Memoria's Backup & Restore feature is now live. You can snapshot your agent's memory at any point in time and restore it instantly if something goes wrong. Free tier comes with two snapshots.
